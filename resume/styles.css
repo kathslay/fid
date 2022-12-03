@@ -1,0 +1,25 @@
+body {
+background-color: #F8C8DC;
+margin: 0 10%;
+font-family: 'Baskerville', serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    margin-top: 30px;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: 'Helvetica', sans-serif;
+    margin-top: 50px;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+}
+
+ul {
+    font-family: 'Helvetica', sans-serif;
+}
